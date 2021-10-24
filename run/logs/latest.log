@@ -1,0 +1,13 @@
+[22:18:23] [Client thread/INFO]: Setting user: Enaium
+[22:18:23] [Client thread/INFO]: (Session ID is token:626e95710b424875af8ff698224351ff:f69276d7bd3238f2852f1cae6996061a)
+[22:18:28] [Client thread/INFO]: LWJGL Version: 2.9.4
+[22:18:33] [Client thread/INFO]: Reloading ResourceManager: Default
+[22:18:33] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[22:18:34] [Thread-5/INFO]: Initializing LWJGL OpenAL
+[22:18:34] [Thread-5/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[22:18:34] [Thread-5/INFO]: OpenAL initialized.
+[22:18:34] [Sound Library Loader/INFO]: Sound engine started
+[22:18:40] [Client thread/INFO]: Created: 512x512 textures-atlas
+[22:18:51] [Client thread/INFO]: Stopping!
+[22:18:51] [Client thread/INFO]: SoundSystem shutting down...
+[22:18:51] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
